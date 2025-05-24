@@ -1,0 +1,1 @@
+This repository contains the code and documentation for the project I developing during my internship at Celebel Technologies. The project focuses on [insert project topic — e.g., "building a scalable web application using React ]
